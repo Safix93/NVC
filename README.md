@@ -6,4 +6,7 @@
     NVC
 </head>
 <body>
+    <img src="https://i.imgur.com/76fHYtV.jpeg" alt="Image secrète" style="width:100%;">
+</body>
+</html>
 
