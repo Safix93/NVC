@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>application</title>
+    NVC
 </head>
 <body>
     <img src="https://ton-image.com/image.jpg" alt="Image secrète" style="width:100%;">
