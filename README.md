@@ -3,16 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <div style="text-align: center; margin-top: 20px;">
-    NVC
+    <title>NVC</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        .download-btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            font-size: 18px;
+            font-weight: bold;
+            color: white;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+        .download-btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
     <img src="https://i.imgur.com/76fHYtV.jpeg" alt="Image secrète" style="width:100%;">
-    
-    <div style="text-align: center; margin-top: 20px;">
-        <a href="https://i.imgur.com/76fHYtV.jpeg" download>
-            <button style="padding: 10px 20px; font-size: 16px;">Téléchargement</button>
-        </a>
-    </div>
+
+    <a href="URL_DU_FICHIER_A_TELECHARGER" download class="download-btn">
+        Télécharger
+    </a>
 </body>
 </html>
