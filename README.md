@@ -6,6 +6,6 @@
     NVC
 </head>
 <body>
-    <img src="![image](https://github.com/user-attachments/assets/5d6f1595-2c62-4d58-9931-54a5300c9cfa)" alt="Image secrète" style="width:100%;">
+    <img src="https://i.imgur.com/76fHYtV.jpeg" alt="Image secrète" style="width:100%;">
 </body>
 </html>
